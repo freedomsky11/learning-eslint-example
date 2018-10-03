@@ -5,6 +5,7 @@
     "no-alert": 1
   },
   "env": {
-    "browser": true
+    "browser": true,
+    "node": true
   }
 }
