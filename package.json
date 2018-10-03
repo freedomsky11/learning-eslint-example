@@ -1,0 +1,23 @@
+{
+  "name": "learning-eslint-example",
+  "version": "1.0.0",
+  "description": "#### This project is used for practice how to use Eslint.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freedomsky11/learning-eslint-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freedomsky11/learning-eslint-example/issues"
+  },
+  "homepage": "https://github.com/freedomsky11/learning-eslint-example#readme",
+  "devDependencies": {
+    "eslint": "^5.6.1"
+  }
+}
